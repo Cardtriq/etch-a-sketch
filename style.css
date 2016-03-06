@@ -1,0 +1,77 @@
+html {
+
+	height: 100%;
+
+}
+
+body {
+
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+
+
+}
+
+#header {
+
+	border: 1px;
+	border-color: black;
+	margin: 0;
+	width: 100%;
+	height: 10%;	
+
+}
+
+#pusher {
+
+	height: 50%
+
+}
+
+form {
+
+	height: 50%;
+	text-align: center;
+
+}
+
+button {
+
+	color: green;
+
+}
+
+#grid-wrapper {
+
+	width: 100%;
+	height: 90%;
+	margin: 0;
+	padding: 0;
+
+}
+
+.rows {
+
+	margin: 0;
+	padding: 0;
+	width: 100%;
+
+}
+
+.grid-squares {
+
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+
+}
+
+.highlighted {
+
+	background-color: black;
+	color: black;
+
+}
